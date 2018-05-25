@@ -1,0 +1,4 @@
+Enter the number of objects to output: c
+a
+d
+b
